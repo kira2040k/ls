@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ls": {
+      "commandName": "Project",
+      "commandLineArgs": "-ii"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

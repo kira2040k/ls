@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "GoLxI22oEKXpJOv1itGIowYB/jrCzDrzblWCOTyGUR2o8kt8f3FQZNUcvRsYR+D8NvC8pqZTUW2lAzasRAr7Cg==",
+  "success": true,
+  "projectFilePath": "D:\\xampp\\htdocs\\C#\\ls\\ls\\ls.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kira2\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512",
+    "C:\\Users\\kira2\\.nuget\\packages\\spectre.console\\0.44.0\\spectre.console.0.44.0.nupkg.sha512",
+    "C:\\Users\\kira2\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\6.0.8\\microsoft.netcore.app.runtime.linux-x64.6.0.8.nupkg.sha512",
+    "C:\\Users\\kira2\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\6.0.8\\microsoft.aspnetcore.app.runtime.linux-x64.6.0.8.nupkg.sha512",
+    "C:\\Users\\kira2\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.8\\microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
