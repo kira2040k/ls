@@ -1,2 +1,0 @@
-D:\xampp\htdocs\C#\ls\ls\bin\Release\net6.0\publish\linux-x64\ls.pdb
-D:\xampp\htdocs\C#\ls\ls\bin\Release\net6.0\publish\linux-x64\ls
